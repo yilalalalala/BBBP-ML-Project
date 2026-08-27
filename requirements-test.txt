@@ -1,0 +1,5 @@
+rdkit>=2023.9.1
+scikit-learn>=1.2.0
+pandas>=1.5.0
+numpy>=1.24.0,<2
+pytest>=7.0.0
